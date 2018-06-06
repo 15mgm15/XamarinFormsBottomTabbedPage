@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:bottom"
+    x:Class="bottom.MainPage">
+    <TabbedPage.Children>
+        <ContentPage Title="Page 1" Icon="death_star.png"/>
+        <ContentPage Title="Page 2" Icon="green_star.png"/>
+        <ContentPage Title="Page 3" Icon="star.png"/>
+    </TabbedPage.Children>
+</TabbedPage>
